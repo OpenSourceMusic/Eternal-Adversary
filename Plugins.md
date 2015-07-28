@@ -1,0 +1,12 @@
+#PLUGINS
+- TB Peach (Free)
+- NES Pulse (Free)
+- NK 1001 (Free)
+- Oatmeal (Free)
+- TAL Elec7ro (Free)
+- Chip32 (Free)
+- DSK Analog Matrix (Free)
+- DSK Asian DreamZ (Free)
+- DSK Techsynth (Free)
+- DSK Drums Akoustik (Free)
+- DSK Synth Drums (Free)
