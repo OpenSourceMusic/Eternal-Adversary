@@ -1,6 +1,9 @@
 # Eternal-Adversary
 Genre - Chiptune
 
+Song Name: Eternal Adversary
+Artist: Josh Penn-Pierson
+
 [Youtube Link](https://www.youtube.com/watch?v=4QJp15nQLRQ&index=36&list=PLye9mcKwe2zy3KW8uK_3F7HVMjJjdqSqU)
 
 Current Song Version: 1.0
